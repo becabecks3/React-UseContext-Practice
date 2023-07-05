@@ -1,0 +1,9 @@
+.info-section {
+    font-size: 30px;
+}
+
+.info-section img{
+    height: 300px;
+    width: 450px;
+    margin-top: 50px;
+}
